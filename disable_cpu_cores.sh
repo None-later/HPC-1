@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "hello"
 for ((i = $1; i <= $2; i++)); 
 do
 	let j=i+8;       	
